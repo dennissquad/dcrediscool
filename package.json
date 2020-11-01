@@ -10,7 +10,7 @@
   "keywords": [
     "bot"
   ],
-  "author": "dennis",
+  "author": "dennis2",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.4.1"

@@ -31,7 +31,7 @@ if (command === `${prefix}info`) {
 
     var botEmbed = new discord.MessageEmbed()
         .setTitle("Info")
-        .setDescription("Dit is de Rediscool discrod server")
+        .setDescription("Dit is de Rediscool Official discrod server")
         .setColor("#0099ff")
         .addField("Bot Naam", client.user.username)
         .setFooter("Dit is de logo", "https://dunb17ur4ymx4.cloudfront.net/webstore/logos/adef0af216092a560d9563a6009b840ba7b1ff8a.png")
